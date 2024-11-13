@@ -2,7 +2,7 @@ import { Text, View } from 'react-native'
 import React from 'react'
 import Carousel from 'react-native-snap-carousel';
 import { useNavigation } from '@react-navigation/native';
-import tw from 'twrnc';
+import "./global.css"
 
 
 var { width, height } = Dimensions.get('window');

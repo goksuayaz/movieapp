@@ -1,4 +1,4 @@
-
+import "./global.css"
 import { StyleSheet, Text, View } from 'react-native';
 import AppNavigation from './navigation/appNavigation';
 
