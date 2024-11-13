@@ -3,6 +3,7 @@ import React from 'react'
 import { styles } from '../theme';
 var { width, height } = Dimensions.get('window');
 import { useNavigation } from '@react-navigation/native';
+import tw from 'twrnc';
 
 
 export default function MovieList({ title, data }) {

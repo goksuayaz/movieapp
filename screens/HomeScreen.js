@@ -6,6 +6,7 @@ import { } from 'react-native-heroicons/outline';
 import TrendingMovies from '../components/trendingMovies';
 import MovieList from '../components/movieList';
 import { styles } from '../theme';
+import tw from 'twrnc';
 
 
 
